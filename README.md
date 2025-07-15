@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun Srivastava <img height="40" src="https://cdn3.emoji.gg/emojis/7602-spongeboblove.gif"></h1>
 <h3 align="center">A passionate beginner Programer  from India</h3>
 
-- 🔭 I’m currently working on my **Java Course**
+- 🔭 I’m currently working on my **Java and C++ Course**
 
-- 🌱 I’m currently learning **Java and React**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **front-end, back-end projects, database, machine learning**
 
 - 📫 How to reach me: **varunsrivastav15@gmail.com**
 
